@@ -1,1 +1,4 @@
 # Sentiment-Analysis-Prediction
+
+<br> This project was part of the challenges given by an 8-week coding challenge held by Shopee Code League. This challenge was related to the store review analysis that happened in the Shopee. We were asked to build a model that could correctly predict user ratings based on given reviews. Like any other sentiment analysis I have met before, it just involved two columns, 'reviews' and 'ratings'. But this challenge was slightly different from the common one. This one is quite demanding because the reviews contained mixed languages (English and Melayu) and had some weird slang. I used several NLP libraries and processes to clean and prepare the dataset before modeling.
+<br> The submission was scored on top-1 precision, and at the end of the due date, I scored 0.36297, with 0.72697 tops the leaderboard. I didn't share the dataset due to privacy agreement.
